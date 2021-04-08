@@ -37,7 +37,7 @@ gnome-calculator
 
 This Proof-Of-Concept has been tested against a Asus Tuf FX505DT running Ubuntu 20.04.1 LTS with:
 
-- `5.4.0-48-generic #52-Ubuntu SMP Thu Sep 10 10:58:49 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux`
+- `5.4.0-48-generic #52-Ubuntu SMP Thu Mar 25 10:58:49 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux`
 
 The success rate of the exploit is estimated at 80%.
 
