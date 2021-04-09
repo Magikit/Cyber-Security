@@ -23,7 +23,7 @@ _LookTooth_ is a set of zero-click vulnerabilities in the Linux Bluetooth subsys
 - [Proof-Of-Concept](#proof-of-concept)
 - [Timeline](#timeline)
 - [Conclusion](#conclusion)
-- [Thanks](#thanks)
+
 
 ## Introduction
 
